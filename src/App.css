@@ -1,0 +1,63 @@
+@font-face {
+  font-family: 'whoasksatan';
+  src: url(./assets/fonts/StrangerbackintheNight.ttf);
+}
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+body, html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+
+.game-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+}
+
+.game-wrapper {
+  text-align: center;
+  background: rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px red;
+  max-width: 90%;
+  width: 400px;
+  min-height: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.reset-button{
+  font-family: 'whoasksatan', cursive;
+  background-color: rgb(117, 0, 0);
+}
+
+.tries{
+  font-family: 'whoasksatan', cursive;
+  font-size: 50px;
+}
+
+.word-display{
+  font-size: 50px;
+  font-family: 'whoasksatan', cursive;
+}
+.game-title{
+  font-family: 'whoasksatan', cursive;
+  font-size: 50px;
+}
