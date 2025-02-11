@@ -44,5 +44,5 @@ Un jeu du pendu horrifique développé en **React** avec **CSS personnalisé** p
 Ce projet est sous licence MIT.
 
 ## Auteur
-Développé par **[Votre Nom]**. N'hésitez pas à contribuer ou proposer des améliorations ! 🎃
+Développé par **max-devv**. N'hésitez pas à contribuer ou proposer des améliorations ! 🎃
 
